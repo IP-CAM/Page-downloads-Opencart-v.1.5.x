@@ -1,39 +1,39 @@
-Страница "Загрузки" для OpenCart 1.5.х
+Download page for OpenCart 1.5.x
 ====================
 
-Писалось и тестировалось на версии: 1.5.5.1
+It was written and tested on version: 1.5.5.1
 
-Описание
+Description
 ====================
 
-Страница "Загрузки" - это модуль для OpenCart позволяющий добавить на сайт страницу с загрузками. Эта страница не связана с загрузками для товаров, файлы для вывода в ней добавляются на специальных страницах в администраторской панели.
+The "Downloads" page is a module for OpenCart that allows you to add a download page to the site. This page is not related to product downloads; files for displaying in it are added on special pages in the admin panel.
 
-Поддерживаемые языки:
+Supported languages:
  * English
- * Русский
- * Українська
+ * Russian
+ * Ukrainian
 
-Установка
+Installation
 ====================
 
-1. Копируем файлы в папку с OpenCart
-2. Импортируем в БД dump.sql
-3. Правим css-стили под себя и переносим их в style.css
+1. Copy the files to the OpenCart folder
+2. We import dump.sql into the database
+3. Edit css-styles for yourself and transfer them to style.css
 
-Вопросы и предложения
+Questions and suggestions
 ====================
 
-С вопросами и пожеланиями по модулю пишите на Gemini_13@torba.su
+With questions and wishes regarding the module, write to Gemini_13@torba.su
 
-Скриншоты
+Screenshots
 ====================
-К сожалению, под рукой был только готовый сайт.
+Unfortunately, only a ready-made website was at hand.
 
-![Menu](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/menu.jpg)
-![Categories List](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/cats_list.jpg)
-![Categories General Configuration](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/cats_conf_1.jpg)
-![Categories Data Configuration](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/cats_conf_2.jpg)
-![Downloads List](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/files_list.jpg)
-![Downloads General Configuration](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/file_conf_1.jpg)
-![Downloads Data Configuration](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/file_conf_2.jpg)
-![On Site](https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/site.jpg)
+! [Menu] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/menu.jpg)
+! [Categories List] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/cats_list.jpg)
+! [Categories General Configuration] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/cats_conf_1.jpg)
+! [Categories Data Configuration] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/cats_conf_2.jpg)
+! [Downloads List] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/files_list.jpg)
+! [Downloads General Configuration] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/file_conf_1.jpg)
+! [Downloads Data Configuration] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/file_conf_2.jpg)
+! [On Site] (https://raw.github.com/gemini1389/opencart-page-downloads/master/README.img/site.jpg) 
